@@ -31,19 +31,19 @@ API Gateway
 ## 📸 Project Screenshots
 
 ### API Gateway Resources
-![API Gateway](screenshots/api-gateway-resources.png)
+![API Gateway](api-gateway-resources.png)
 
 ### Successful URL Shortening
-![API Response](screenshots/api-response.png)
+![API Response](api-response.png)
 
 ### DynamoDB Storing URL Mapping
-![DynamoDB Items](screenshots/dynamodb-items.png)
+![DynamoDB Items](dynamodb-items.png)
 
 ### Lambda Function
-![Lambda Function](screenshots/lambda-function.png)
+![Lambda Function](lambda-function.png)
 
 ### Redirect Working in Browser
-![Redirect Working](screenshots/redirect-working.png)
+![Redirect Working](redirect-working.png)
 
 ---
 
